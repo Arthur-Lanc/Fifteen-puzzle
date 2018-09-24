@@ -6,5 +6,4 @@ run it on http://www.codeskulptor.org/
 ![alt text](images/15puzzle.png)
 
 enjoy it!!!
-
 :rocket:
